@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Mitra",
+  "description": "Hyperlocal offline-first agricultural platform for Karnataka farmers with location-aware crop calendars, live weather intelligence, Kannada voice support, APMC market prices, nearby input shops, equipment rentals, and government schemes.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
